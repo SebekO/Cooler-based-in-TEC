@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=top_level.SchDoc|SheetNumber= 
+Record=SheetSymbol|SourceDocument=top_level.SchDoc|Designator=U_pwr_IO|SchDesignator=U_pwr_IO|FileName=pwr_IO.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=pwr_IO.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=top_level.SchDoc|Designator=U_relay_driver|SchDesignator=U_relay_driver|FileName=relay_driver.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=relay_driver.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=top_level.SchDoc|Designator=U_uC_pwr|SchDesignator=U_uC_pwr|FileName=uC_pwr.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=uC_pwr.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

@@ -1,0 +1,27 @@
+Change Component Designator: OldDesignator=LED1 NewDesignator=LED2
+Change Component Designator: OldDesignator=LED2 NewDesignator=LED5
+Change Component Designator: OldDesignator=LED4 NewDesignator=LED6
+Change Component Designator: OldDesignator=LED5 NewDesignator=LED1
+Change Component Designator: OldDesignator=LED6 NewDesignator=LED4
+Change Component Designator: OldDesignator=Q1 NewDesignator=Q2
+Change Component Designator: OldDesignator=Q2 NewDesignator=Q5
+Change Component Designator: OldDesignator=Q4 NewDesignator=Q6
+Change Component Designator: OldDesignator=Q5 NewDesignator=Q1
+Change Component Designator: OldDesignator=Q6 NewDesignator=Q4
+Change Component Designator: OldDesignator=R6 NewDesignator=R7
+Change Component Designator: OldDesignator=R7 NewDesignator=R10
+Change Component Designator: OldDesignator=R9 NewDesignator=R11
+Change Component Designator: OldDesignator=R10 NewDesignator=R6
+Change Component Designator: OldDesignator=R11 NewDesignator=R9
+Change Net Name : Old Net Name=NetLED1_2 New Net Name=NetLED2_2
+Change Net Name : Old Net Name=NetLED2_2 New Net Name=NetLED5_2
+Change Net Name : Old Net Name=NetLED4_2 New Net Name=NetLED6_2
+Change Net Name : Old Net Name=NetLED5_2 New Net Name=NetLED1_2
+Change Net Name : Old Net Name=NetLED6_2 New Net Name=NetLED4_2
+Change Net Name : Old Net Name=NetQ1_2 New Net Name=NetQ2_2
+Change Net Name : Old Net Name=NetQ2_2 New Net Name=NetQ5_2
+Change Net Name : Old Net Name=NetQ4_2 New Net Name=NetQ6_2
+Change Net Name : Old Net Name=NetQ5_2 New Net Name=NetQ1_2
+Change Net Name : Old Net Name=NetQ6_2 New Net Name=NetQ4_2
+Added Room: Name=U_relay_driver
+Added Room: Name=U_uC_pwr

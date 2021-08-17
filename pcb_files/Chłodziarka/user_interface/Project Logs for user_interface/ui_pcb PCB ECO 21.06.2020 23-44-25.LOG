@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=R2 Old Footprint=J1-0603 New Footprint=AXIAL-0.4
+Change Component Footprint: Designator=R3 Old Footprint=J1-0603 New Footprint=AXIAL-0.4
+Change Component Footprint: Designator=R4 Old Footprint=J1-0603 New Footprint=AXIAL-0.4
+Change Component Footprint: Designator=R5 Old Footprint=J1-0603 New Footprint=AXIAL-0.4
+Added Room: Name=U_uC_ui
+Added Room: Name=U_ui_IO

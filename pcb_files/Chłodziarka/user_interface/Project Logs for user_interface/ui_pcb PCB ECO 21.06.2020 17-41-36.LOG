@@ -1,0 +1,33 @@
+Change Component Footprint: Designator=L1 Old Footprint=AXIAL-0.4 New Footprint=INDR62-500-1100X850X1100
+Change Component Comment : Designator=L1 Old Comment=Inductor New Comment=10mH
+Change Managed Component Library Link : Designator=L1 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=93B27FA1-6247-48CF-9A33-D5D95ECB4194 Old RevisionGUID= New RevisionGUID=94AD9C3F-E101-44E9-9CC0-83DD0FE97224
+Change component parameters: Designator = "L1" ("L1"); Footprint = "AXIAL-0.4"; UniqueID = "\FUSGBYEX\OQEWDSMK" ("\FUSGBYEX\OQEWDSMK")
+Change component parameters (AddParameter): Name = "Case\Package"; Value = "DIP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.bourns.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.bourns.com/docs/Product-Datasheets/rl622_series.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "Aug-10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.25 inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Interface"; Value = "Parallel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "0.75 inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "70 degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Supply Voltage"; Value = "36 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "0 degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Supply Voltage"; Value = "4.5 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Current"; Value = "600 mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Voltage"; Value = "36 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Outputs"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "25"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "2-Pin Radial Lead, Dia 8.5 mm, Pitch 5 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "INDR62-500-1100X850X1100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Rail/Tube"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "16"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = "0.03357 oz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.25 inch"; VariantName = "[No Variations]"
+Added Room: Name=U_uC_ui
+Added Room: Name=U_ui_IO

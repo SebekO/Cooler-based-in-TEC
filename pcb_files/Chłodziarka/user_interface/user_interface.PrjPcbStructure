@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=top_level.SchDoc|SheetNumber= 
+Record=SheetSymbol|SourceDocument=top_level.SchDoc|Designator=U_uC_ui|SchDesignator=U_uC_ui|FileName=uC_ui.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=uC_ui.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=top_level.SchDoc|Designator=U_ui_IO|SchDesignator=U_ui_IO|FileName=ui_IO.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=ui_IO.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

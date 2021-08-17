@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=L1 Old Footprint=AXIAL-0.4 New Footprint=INDR62-500-1100X850X1100
+Change Component Footprint: Designator=R8 Old Footprint=J1-0603 New Footprint=AXIAL-0.4
+Change Component Comment : Designator=L1 Old Comment=Inductor New Comment=10mH
+Added Room: Name=U_uC_ui
+Added Room: Name=U_ui_IO

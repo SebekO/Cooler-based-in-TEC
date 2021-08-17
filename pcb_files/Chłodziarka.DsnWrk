@@ -1,0 +1,8 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=Ch³odziarka\user_interface\user_interface.PrjPcb
+[Project2]
+ProjectPath=Ch³odziarka\power_control\power_control.PrjPcb
+[Project3]
+ProjectPath=Ch³odziarka\panel\panel.PrjPcb
